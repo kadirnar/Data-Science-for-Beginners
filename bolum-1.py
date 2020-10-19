@@ -140,8 +140,97 @@ b = list(range(10))
 random.shuffle(b) #b listesini karıştır.
 
 
-#%%
+#%% zıp
+
+a = ["a","b","c"]
+b = [1,2,3]
+c = ["q","w","e"]
+d = list(zip(a,b,c))
 
 #%%
 
+a = [1,2,3,4]
+b =[i for i in a] # a dizinindeki elemanları b'ye yaz.
+
+x = [y*2 for y in list(range(10))]
+
+#%% return
+
+a = int(input("sayi gir:"))
+b = int(input("sayi gir:"))
+def hesapla(a,b):
+    print("kadri")
+a = hesapla(a,b) #fonksiyonu bi değişkene atmamız için return yazılmalı.
+
+#%% args & kwargs
+
+def hesapla(*args):
+    return args
+
+a = hesapla(10,30,20)
+
+def hesap(**kwargs):
+    return kwargs
+b = hesap(muz=100, elma=200, armut=300)
+
+#%% map
+
+x = [1,2,3]
+def abc(y):
+    return y*2
+
+k = list(map(abc,x))
+
+#%% lambda 
+
+a = lambda b:b**2 #tek satırda fonksiyon yazdırıyor.
+print(a(5))
+
 #%%
+
+
+
+
+#%% global ve local değişkenler
+
+x = 1
+
+def fonk():
+    global x #def dışında da x değerimiz 2'ye eşittir.
+    x = 2
+    print(x)
+fonk()    
+
+#%% Hesap Makinası
+
+def HesapMakinesi():
+    
+    while True:
+        try:
+        
+            sayi1 = int(input("1.Sayi: "))
+            sayi2 = int(input("2.Sayi: "))
+            islem = input("İşlem türünü seçiniz: ")  
+            if islem == "+":
+            
+                toplama = sayi1+sayi2
+                print(toplama)
+                
+            elif islem == "-":
+            
+                cıkarma = sayi1-sayi2
+                print(cıkarma)
+        
+            elif islem == "*":
+                
+                carpma = sayi1*sayi2
+                print(carpma)
+        
+            elif islem == "/":
+                
+                bölme =sayi1/sayi2
+                print(bölme)
+        except:
+            print("Sayıları düzgün giriniz.")
+
+HesapMakinesi()
