@@ -234,3 +234,45 @@ def HesapMakinesi():
             print("Sayıları düzgün giriniz.")
 
 HesapMakinesi()
+#%%                        SINIFLAR
+
+#Basit bir class yapısı oluşturuyoruz.
+
+class Plane():
+    def __init__(self):
+        print("uçak")
+
+uavs = Plane()
+#%%
+
+class UavTeam():
+    def __init__(self,teamMembers,teamDuties):
+        self.members = teamMembers
+        self.duties = teamDuties
+
+teams  = UavTeam("kadir","Deep Learning Researcher")
+
+print(teams.duties)
+#%%
+
+class Uav():
+    def __init__(self):
+        print("Uav Takımı")
+    
+    def sabit(self):
+        print("Sabit Kanat")
+        
+    def döner(self):
+        print("Döner Kanat")
+        
+class Teknofest(Uav): 
+    def __init__(self):
+        Uav.__init__(self)
+        print("Teknofest Ekipleri")
+        
+    
+    def UavTakımları(self):
+        print("Tübitak Ekipleri")
+
+SelcukBayraktar = Teknofest() # Tüm teknofest yarışmalaarını kapsar
+Tübitak = Uav() # Sadece Tübitak yarışmalarını kapsar.
