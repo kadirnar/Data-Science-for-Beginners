@@ -1,6 +1,11 @@
 # Derin Öğrenme için Python Kılavuzu
 
-Bu repo da anlatılanlar: 
+<code><a href="" target="_blank"><img height="250" src="https://www.novarge.com.tr/upload/kurs//823859cd8e65921283e9ef7084db01bf.png"></a></code>
+
+
+
+
+Bu github repo da anlatılanlar : 
 
 * Degişkenler
 * Sayılar
@@ -18,5 +23,4 @@ Bu repo da anlatılanlar:
 * Argümanlar
 * Hesap Makinası Uygulaması
 * Nesne Tabanlı Programlama
-* Hatalar
-* Kütüphane ve modül
+* Kütüphane ve Modül
