@@ -276,3 +276,30 @@ class Teknofest(Uav):
 
 SelcukBayraktar = Teknofest() # Tüm teknofest yarışmalaarını kapsar
 Tübitak = Uav() # Sadece Tübitak yarışmalarını kapsar.
+#%% Özel Methodlar
+"""
+Çok fazla özel methodlar var. İhtiyacınıza göre dokümantasyonı okuyup bakabiliriz.
+
+- Special Methods
+- Magic methods 
+
+Diye aratmanız kafidir.
+"""
+
+#%% Hatalar
+
+while True:
+    try:
+        a = int(input("Sayi gir: "))
+    except:
+        print("Lütfen gerçekten sayi gir: ")
+    
+    else:
+        print("Teşekkürler")
+        break
+#%% Modüller
+from denememodül import deneme
+deneme()
+
+#Paket yazma
+from kütüphane.paketler import print
