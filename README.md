@@ -1,1 +1,1 @@
-# Data Science for Beginners
+# Deep Learning for Python
