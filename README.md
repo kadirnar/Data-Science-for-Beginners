@@ -27,8 +27,14 @@ Bu github repo da anlatılanlar :
 * Numpy Giriş
 * Numpy Metodları
 * Numpy İndexleri & Matris İndexleri
+*
 
 ### Pandas (Yakında yüklenecektir.)
+
+* Pandas Temelleri
+* Seriler
+* Dataframe
+* Yakında Eklenecektir
 
 ### Matplotlib (Yakında yüklenecektir.)
 
