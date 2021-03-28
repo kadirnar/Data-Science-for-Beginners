@@ -38,4 +38,4 @@ Bu github repo da anlatılanlar :
 
 ### Matplotlib (Yakında yüklenecektir.)
 
-### Tensorflow'a Giriş (Yakında yüklenecektir.)
+### Keras'a Giriş (Yakında yüklenecektir.)
