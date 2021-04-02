@@ -61,7 +61,7 @@ Bu github repo da anlatılanlar :
 - Zincir Kuralı ve Geriye Yayılım Algoritması
 - MNIST Veri Kümesinde Sinir Ağı Modeli Oluşturma ve Eğitme 
 
-**[BÖLÜM 4: Derin Sinir Ağları (Uygulamalı)]** 
+**[BÖLÜM 4: Yakında Eklenecektir.]** 
 - Katmanlar
 - Modeller
 - Kayıp Fonksiyonları
