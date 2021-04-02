@@ -48,7 +48,7 @@ Bu github repo da anlatılanlar :
 - Veri Nedir ve Yapay Zekâ ile İlişkisi 
 - Derin Öğrenme Nedir ve Terminolojisi
 
-**[BÖLÜM 2: Derin Öğrenme Alet Çantası (Uygulamalı)]** 
+**[BÖLÜM 2: Yakında Eklenecektir.]** 
 - Derin Öğrenmeyi Başarılı Yapan Farkları
 - Derin Öğrenme için Donanım, Programlama Dilleri ve Kütüphaneler
 - Derin Öğrenme için Veri ve Algoritmalar
