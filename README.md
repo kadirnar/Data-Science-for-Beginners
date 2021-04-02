@@ -54,7 +54,7 @@ Bu github repo da anlatılanlar :
 - Derin Öğrenme için Veri ve Algoritmalar
 - Derin Öğrenme Uygulama Ortamları
 
-**[BÖLÜM 3: Derin Öğrenmenin Matematiksel Temelleri (Uygulamalı)]** 
+**[BÖLÜM 3: Yakında Eklenecektir.]** 
 - Vektörler / Matrisler / Tensörler
 - Türev ve Gerekliliği
 - Stokastik Gradyan İniş ve Optimizasyon
