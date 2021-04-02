@@ -68,7 +68,7 @@ Bu github repo da anlatılanlar :
 - Optimizasyon Algoritmaları
 - State-of-the-Art Modellerin İncelenmesi
 
-**[BÖLÜM 5: Yapay Öğrenme Temelleri ve Düzenlileştirme Yaklaşımları (Uygulamalı)]**
+**[BÖLÜM 5: Yakında Eklenecektir.]**
 - Denetimli Öğrenme
 - Denetimsiz Öğrenme
 - Yarı-Denetimli Öğrenme
