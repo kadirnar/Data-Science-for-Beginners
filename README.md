@@ -41,7 +41,7 @@ Bu github repo da anlatılanlar :
 ### Keras'a Giriş (Yakında yüklenecektir.)
 ## EĞİTİM İÇERİĞİ
 
-**[BÖLÜM 1: Motivasyon ve Derin Öğrenmeye Giriş]** 
+**[BÖLÜM 1: Yakında Eklenecektir.]** 
 
 - Motivasyon
 - Yapay Zekâ Nedir, Tarihçesi ve Kilometre Taşları 
