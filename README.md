@@ -40,36 +40,36 @@ Bu github repo da anlatılanlar :
 
 ### Keras'a Giriş (Yakında yüklenecektir.)
 
-### EĞİTİM İÇERİĞİ
+### Eğitim İçeriği
 
-**[BÖLÜM 1: Yakında Eklenecektir.]** 
+**[Bölüm 1: Yakında Eklenecektir.]** 
 
 - Motivasyon
 - Yapay Zekâ Nedir, Tarihçesi ve Kilometre Taşları 
 - Veri Nedir ve Yapay Zekâ ile İlişkisi 
 - Derin Öğrenme Nedir ve Terminolojisi
 
-**[BÖLÜM 2: Yakında Eklenecektir.]** 
+**[Bölüm 2: Yakında Eklenecektir.]** 
 - Derin Öğrenmeyi Başarılı Yapan Farkları
 - Derin Öğrenme için Donanım, Programlama Dilleri ve Kütüphaneler
 - Derin Öğrenme için Veri ve Algoritmalar
 - Derin Öğrenme Uygulama Ortamları
 
-**[BÖLÜM 3: Yakında Eklenecektir.]** 
+**[Bölüm 3: Yakında Eklenecektir.]** 
 - Vektörler / Matrisler / Tensörler
 - Türev ve Gerekliliği
 - Stokastik Gradyan İniş ve Optimizasyon
 - Zincir Kuralı ve Geriye Yayılım Algoritması
 - MNIST Veri Kümesinde Sinir Ağı Modeli Oluşturma ve Eğitme 
 
-**[BÖLÜM 4: Yakında Eklenecektir.]** 
+**[Bölüm 4: Yakında Eklenecektir.]** 
 - Katmanlar
 - Modeller
 - Kayıp Fonksiyonları
 - Optimizasyon Algoritmaları
 - State-of-the-Art Modellerin İncelenmesi
 
-**[BÖLÜM 5: Yakında Eklenecektir.]**
+**[Bölüm 5: Yakında Eklenecektir.]**
 - Denetimli Öğrenme
 - Denetimsiz Öğrenme
 - Yarı-Denetimli Öğrenme
@@ -82,7 +82,7 @@ Bu github repo da anlatılanlar :
 - Optimizasyon Algoritmalarının Belirlenmesi
 - Aktarımlı Öğrenme, Çoklu-Görev Öğrenme 
 
-**[BÖLÜM 6: Yakında Eklenecektir.]**
+**[Bölüm 6: Yakında Eklenecektir.]**
 - Evrişimli Sinir Ağı Kullanım Alanları
 - Evrişimli Sinir Ağı Modelleme Adımları
 - Evrişimli Sinir Ağı Eğitme, Sonuçları Değerlendirme ve Görselleştirme
