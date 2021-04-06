@@ -21,48 +21,52 @@ Bu github repo da anlatılanlar :
 * Hesap Makinası Uygulaması
 * Nesne Tabanlı Programlama
 * Kütüphane ve Modül
+
+
 ----------------------------------------------------------------
+
 ### Numpy (Yakında yüklenecektir.)
 
 * Numpy Giriş
 * Numpy Metodları
 * Numpy İndexleri & Matris İndexleri
 *
-
+----------------------------------------------------------------
 ### Pandas (Yakında yüklenecektir.)
 
 * Pandas Temelleri
 * Seriler
 * Dataframe
 * Yakında Eklenecektir
-
+----------------------------------------------------------------
 ### Matplotlib (Yakında yüklenecektir.)
 
 * Yakında Eklenecektir
-
+----------------------------------------------------------------
 ### Keras'a Giriş (Yakında yüklenecektir.)
 
-
+----------------------------------------------------------------
 **Bölüm 1: Yakında Eklenecektir.** 
 
 - Yakında Eklenecek.
-
+----------------------------------------------------------------
 **Bölüm 2: Yakında Eklenecektir.** 
 
 - Yakında Eklenecek.
-
+----------------------------------------------------------------
 **Bölüm 3: Yakında Eklenecektir.** 
 
 - Yakında Eklenecek.
-
+----------------------------------------------------------------
 **Bölüm 4: Yakında Eklenecektir.** 
 
 - Yakında Eklenecek.
-
+----------------------------------------------------------------
 **Bölüm 5: Yakında Eklenecektir.**
 
 - Yakında Eklenecek.
-
+----------------------------------------------------------------
 **Bölüm 6: Yakında Eklenecektir.**
 
 - Yakında Eklenecek.
+----------------------------------------------------------------
