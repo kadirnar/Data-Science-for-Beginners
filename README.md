@@ -38,9 +38,10 @@ Bu github repo da anlatılanlar :
 
 ### Matplotlib (Yakında yüklenecektir.)
 
+* Yakında Eklenecektir
+
 ### Keras'a Giriş (Yakında yüklenecektir.)
 
-### Eğitim İçeriği
 
 **Bölüm 1: Yakında Eklenecektir.** 
 
@@ -65,4 +66,3 @@ Bu github repo da anlatılanlar :
 **Bölüm 6: Yakında Eklenecektir.**
 
 - Yakında Eklenecek.
-
