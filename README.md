@@ -2,7 +2,6 @@
 
 <a href="" target="_blank"><img height="250" src="https://www.novarge.com.tr/upload/kurs//823859cd8e65921283e9ef7084db01bf.png"></a>
 
-Bu github repo da anlatılanlar : 
 ### Python 
 * Degişkenler
 * Sayılar
