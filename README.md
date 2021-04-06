@@ -42,49 +42,27 @@ Bu github repo da anlatılanlar :
 
 ### Eğitim İçeriği
 
-**[Bölüm 1: Yakında Eklenecektir.]** 
+**Bölüm 1: Yakında Eklenecektir.** 
 
-- Motivasyon
-- Yapay Zekâ Nedir, Tarihçesi ve Kilometre Taşları 
-- Veri Nedir ve Yapay Zekâ ile İlişkisi 
-- Derin Öğrenme Nedir ve Terminolojisi
+- Yakında Eklenecek.
 
-**[Bölüm 2: Yakında Eklenecektir.]** 
-- Derin Öğrenmeyi Başarılı Yapan Farkları
-- Derin Öğrenme için Donanım, Programlama Dilleri ve Kütüphaneler
-- Derin Öğrenme için Veri ve Algoritmalar
-- Derin Öğrenme Uygulama Ortamları
+**Bölüm 2: Yakında Eklenecektir.** 
 
-**[Bölüm 3: Yakında Eklenecektir.]** 
-- Vektörler / Matrisler / Tensörler
-- Türev ve Gerekliliği
-- Stokastik Gradyan İniş ve Optimizasyon
-- Zincir Kuralı ve Geriye Yayılım Algoritması
-- MNIST Veri Kümesinde Sinir Ağı Modeli Oluşturma ve Eğitme 
+- Yakında Eklenecek.
 
-**[Bölüm 4: Yakında Eklenecektir.]** 
-- Katmanlar
-- Modeller
-- Kayıp Fonksiyonları
-- Optimizasyon Algoritmaları
-- State-of-the-Art Modellerin İncelenmesi
+**Bölüm 3: Yakında Eklenecektir.** 
+
+- Yakında Eklenecek.
+
+**Bölüm 4: Yakında Eklenecektir.** 
+
+- Yakında Eklenecek.
 
 **[Bölüm 5: Yakında Eklenecektir.]**
-- Denetimli Öğrenme
-- Denetimsiz Öğrenme
-- Yarı-Denetimli Öğrenme
-- Pekiştirmeli Öğrenme
-- Yapay Öğrenme Temelleri ve Düzenlileştirme Yaklaşımları
-- Eğitim, Doğrulama, Test Kümelerinin Oluşturulması ve Başarı Ölçütlerinin Belirlenmesi
-- Veri Artırma
-- Aşırı Uydurma, Az Uydurma ve Erken Durdurma
-- Aktivasyon Fonksiyonları
-- Optimizasyon Algoritmalarının Belirlenmesi
-- Aktarımlı Öğrenme, Çoklu-Görev Öğrenme 
+
+- Yakında Eklenecek.
 
 **[Bölüm 6: Yakında Eklenecektir.]**
-- Evrişimli Sinir Ağı Kullanım Alanları
-- Evrişimli Sinir Ağı Modelleme Adımları
-- Evrişimli Sinir Ağı Eğitme, Sonuçları Değerlendirme ve Görselleştirme
-- Nesne Tanıma Örnek Uygulamalar
-- Yüz Görüntülerin Duygu Tanıma Örnek Uygulamalar
+
+- Yakında Eklenecek.
+
