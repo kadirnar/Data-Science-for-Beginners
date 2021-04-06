@@ -58,11 +58,11 @@ Bu github repo da anlatılanlar :
 
 - Yakında Eklenecek.
 
-**[Bölüm 5: Yakında Eklenecektir.]**
+**Bölüm 5: Yakında Eklenecektir.**
 
 - Yakında Eklenecek.
 
-**[Bölüm 6: Yakında Eklenecektir.]**
+**Bölüm 6: Yakında Eklenecektir.**
 
 - Yakında Eklenecek.
 
