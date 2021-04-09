@@ -29,7 +29,6 @@
 * Numpy Giriş
 * Numpy Metodları
 * Numpy İndexleri & Matris İndexleri
-*
 ----------------------------------------------------------------
 ### Pandas (Yakında yüklenecektir.)
 
